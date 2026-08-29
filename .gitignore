@@ -1,0 +1,33 @@
+# Logs
+*.log
+debug.log
+registration_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cache
+*.cache
+.cache/
+temp/
+tmp/
+
+# Compiled PHP
+*.phpstorm.meta.php
